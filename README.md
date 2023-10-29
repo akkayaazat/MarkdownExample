@@ -1,4 +1,4 @@
-# MarkdownExample
+
 # User Management Screen Specification
 
 ## Overview
